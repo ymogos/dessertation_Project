@@ -1,1 +1,3 @@
-# dessertation_Project
+## Project Overview
+
+This MSc dissertation, titled **"Route Optimisation Using Machine Learning and GIS in Royal Mail"**, explores how data science, machine learning, and Geographic Information Systems (GIS) can be used to improve postal delivery route planning. Using Royal Mail delivery data, I carried out data cleaning and preprocessing with Python and Pandas, reducing the dataset from 2,519 to 2,175 records. The project incorporated Google OR-Tools for route optimisation, QGIS and OpenStreetMap for geographical analysis, and Tableau for data visualisation. The aim was to develop a more efficient, data-driven approach to delivery route planning while considering practical operational constraints such as driver working hours, delivery locations, and vehicle availability.
